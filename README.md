@@ -162,10 +162,32 @@ customer engagement, and optimize marketing and product strategies?"
 
 ![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/SQL/Q10.jpg)
 
+</details>
 
+---
 
+<details>
+    <summary>Power BI <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/1500083e-bdef-447f-9461-587caf8c5990" /> </summary>
 
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/9bdb0829-fe3d-451e-bca4-215ee422e53b" /> Customer Behavior Analysis Dashboard in Power BI
 
+This Power BI Dashboard provides a comprehensive analysis of Customer Behavior and Subscription status, focusing on revenue by age group, average review rating. The analysis leverages dynamic dashboards, interactive charts, and key performance indicators (KPIs) to identify trends and insights.
+
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/0d84fcf0-ed8b-4f45-8562-bfa71f9a93c5" /> KPI’s Requirements
+
+**1. Number of Customer:** The total count of different customers.
+
+**2. Average Purchase Amount:** The average of the purchase amount.
+
+**3. Average Review Rating:** The average of the review rating.
+
+---
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi1.jpg)
+
+---
+
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/cfa5bf02-459a-4151-9654-1752bdb43139" /> Chart’s Requirements
 
 
 
