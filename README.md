@@ -61,7 +61,11 @@ customer engagement, and optimize marketing and product strategies?"
 
 ## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/69cdf0b2-f650-4bb9-92a0-dd00b75d0154" /> Exploratory Data Analysis
 
+## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/f1c36522-dba4-470f-94da-b308a20aad60" /> Data Import
 
+- Data Loading: Imported the dataset using pandas.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt1.jpg)
 
 ## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/9d0eeb64-72c3-4ba5-b79d-f37438f8fe5c" /> Data Walkthrough
 
@@ -74,11 +78,37 @@ customer engagement, and optimize marketing and product strategies?"
 
 ## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/c37e7042-4b39-450e-87bc-52ae0adb7f05" /> Data Cleaning/Quality Check
 
+- Initial Exploration: Used df.info() to check structure and .describe() for summary statistics.
 
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt2.jpg)
 
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt3.jpg)
 
+- Missing Data Handling: Checked for null values and imputed missing values in the Review Rating column using the median rating of each product category.
 
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt4.jpg)
 
+- Column Standardization: Renamed columns to snake case for better readability and documentation.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt5.jpg)
+
+- Created age_group column by binning customer ages.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt6.jpg)
+
+- Created purchase_frequency_days column from purchase data.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt7.jpg)
+
+- Data Consistency Check: Verified if discount_applied and promo_code_used were redundant; dropped promo_code_used.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt8.jpg)
+
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/4fe9c387-dda0-421f-8264-9eb86f9f4cd1" /> ↔️ <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/66fb9e4a-47f2-4e08-8ce2-29d37ae3d6a4" /> Data Connection
+
+- Database Integration: Connected Python script to PostgreSQL and loaded the cleaned DataFrame into the database for SQL analysis.
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt9.jpg)
 
 
 
