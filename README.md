@@ -110,13 +110,6 @@ customer engagement, and optimize marketing and product strategies?"
 
 ![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/Python/pyt9.jpg)
 
-
-
-
-
-
-
-
 ---
 
 > [!NOTE]
@@ -127,5 +120,6 @@ customer engagement, and optimize marketing and product strategies?"
 <details>
 <summary>SQL <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/ee2f380f-d0fc-4898-a809-6d7d7572d768" /> </summary>
 
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/b6e94b3a-7abf-4b58-8056-ebc8a94beb70" /> Data Analysis
 
 
