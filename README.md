@@ -30,11 +30,12 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 ## 🚀 Steps in Project
 
-✔️ Requirement Gathering / Business Requirements  
-✔️ Data Walkthrough  
-✔️ Data Connection  
-✔️ Data Cleaning/Quality Check 
+✔️ Requirement Gathering / Business Requirements
 ✔️ Exploratory Data Analysis
+✔️ Data Import
+✔️ Data Walkthrough  
+✔️ Data Cleaning/Quality Check 
+✔️ Data Connection
 ✔️ Data Analysis
 ✔️ Data Modeling  
 ✔️ Data Processing  
@@ -58,6 +59,10 @@ customer engagement, and optimize marketing and product strategies?"
 
 ---
 
+## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/69cdf0b2-f650-4bb9-92a0-dd00b75d0154" /> Exploratory Data Analysis
+
+
+
 ## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/9d0eeb64-72c3-4ba5-b79d-f37438f8fe5c" /> Data Walkthrough
 
 - Rows: 3,900
@@ -67,6 +72,7 @@ customer engagement, and optimize marketing and product strategies?"
 - Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type)
 - Missing Data: 37 values in Review Rating column
 
+## <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/c37e7042-4b39-450e-87bc-52ae0adb7f05" /> Data Cleaning/Quality Check
 
 
 
