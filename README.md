@@ -189,7 +189,25 @@ This Power BI Dashboard provides a comprehensive analysis of Customer Behavior a
 
 ## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/cfa5bf02-459a-4151-9654-1752bdb43139" /> Chart’s Requirements
 
+- Percentage of Customer by Subscription Status
 
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi2.jpg)
+
+- Revenue by Category
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi3.jpg)
+
+- Sales by Category
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi4.jpg)
+
+- Revenue by Age Group
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi6.jpg)
+
+- Sales by Age Group
+
+![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi5.jpg)
 
 
 
