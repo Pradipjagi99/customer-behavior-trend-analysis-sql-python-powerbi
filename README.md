@@ -30,7 +30,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 ## 🚀 Steps in Project
 
-✔️ Requirement Gathering / Business Requirements
+✔️ Requirement Gathering/Business Requirements
 ✔️ Exploratory Data Analysis
 ✔️ Data Import
 ✔️ Data Walkthrough  
