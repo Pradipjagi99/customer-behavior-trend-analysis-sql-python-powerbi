@@ -209,6 +209,40 @@ This Power BI Dashboard provides a comprehensive analysis of Customer Behavior a
 
 ![Description of the screenshot](https://github.com/Pradipjagi99/customer-behavior-trend-analysis-sql-python-powerbi/blob/main/Images/PowerBI/pbi5.jpg)
 
+## 💡 Dashboard Insights
 
+### 📊 Key Insights:
 
+1. **Customer Trends**: Analyze customer purchase behavior.
+2. **Revenue Patterns**: Track revenue trends across different shipping type.
+3. **Product Performance**: Identify high-performing products.
+4. **Subscription status**: Key to find the revenue dropping by different category.
 
+### 🎛️ Interactive Features:
+
+- Drill-through options to explore details at multiple levels.
+- Custom slicers for dynamic filtering.
+- KPIs displayed in real-time visuals.
+
+## <img width="28" height="30" alt="image" src="https://github.com/user-attachments/assets/b747a08f-9930-48f0-a7d3-0f358403ce84" /> Business Recommendations
+
+- Boost Subscriptions – Promote exclusive benefits for subscribers.
+- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.
+- Review Discount Policy – Balance sales boosts with margin control.
+- Product Positioning – Highlight top-rated and best-selling products in campaigns.
+- Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.
+
+## 📧 Contact
+
+For any queries or feedback, feel free to reach out:
+
+- **Name**: Jagi Pradip Rao
+- **Email**: pradip.jagi@gmail.com
+
+---
+
+## 🔗 Links
+ 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jagipradiprao)
+
+---
