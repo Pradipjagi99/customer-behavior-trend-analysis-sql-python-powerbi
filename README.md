@@ -232,6 +232,10 @@ This Power BI Dashboard provides a comprehensive analysis of Customer Behavior a
 - Product Positioning – Highlight top-rated and best-selling products in campaigns.
 - Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.
 
+</details>
+
+---
+
 ## 📧 Contact
 
 For any queries or feedback, feel free to reach out:
